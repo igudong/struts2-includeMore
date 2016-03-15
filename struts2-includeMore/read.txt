@@ -1,1 +1,4 @@
 Struts 2自带有“包含文件”功能，包含多个Struts配置文件合并为一个单元。
+
+访问地址：
+http://127.0.0.1:8080/useStrust2HelloWord/login
